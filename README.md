@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img alt="react-native-nfc-rewriter" src="./images/nfc-rewriter-icon.png" width="300">
 </p>
 <p align="center">
@@ -87,3 +87,4 @@ The NFC library is powered by <a href="https://github.com/facebook/react-native"
   </td>
 </tr>
 </table>
+ -->
